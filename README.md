@@ -63,9 +63,9 @@ Aqui você encontrará alguns dos meus projetos acadêmicos e pessoais.
 
 | Projeto | Descrição |
 |---|---|
-| Projeto 01 | [Adicione seu projeto] |
-| Projeto 02 | [Adicione seu projeto] |
-| Projeto 03 | [Adicione seu projeto] |
+| Projeto_Jogos | [Projeto Pessoal de Teste para criação de LetterBoxd para Jogos] |
+| Vidro-Exporta | [Projeto de Faculdade de sistema back-office de um empresa que exporta copos de vidro] |
+| nevasca_project | [Projeto Pessoal de Teste de IA para criação de Jogo de Escolhas por Texto] |
 
 ## 📊 GitHub Statistics
 
