@@ -36,19 +36,19 @@
 
 ## 🛠️ Technologies & Tools
 
-**Programming Languages & Web Development**
+Programming Languages & Web Development
 
-<p>   <img src="[https://skillicons.dev/icons?i=c,java,js,css,nodejs](https://skillicons.dev/icons?i=c,java,js,css,nodejs)" /> </p>
+<p align="left">   <img src="https://skillicons.dev/icons?i=c,java,js,css,nodejs" /> </p>
 
-**Platforms & Development Tools**
+Platforms & Development Tools
 
-<p>   <img src="[https://skillicons.dev/icons?i=git,github,vscode,visualstudio](https://skillicons.dev/icons?i=git,github,vscode,visualstudio)" /> </p>
+<p align="left">   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" /> </p>
 
-**Other Technologies**
+Other Technologies
 
-<p>   <img src="[https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge\&logo=powerapps\&logoColor=white)"/>   <img src="[https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge\&logo=gamemaker\&logoColor=white)"/>   <img src="[https://img.shields.io/badge/Dev--C%2B%2B-00599C?style=for-the-badge](https://img.shields.io/badge/Dev--C%2B%2B-00599C?style=for-the-badge)"/> </p>
+<p align="left">   <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />   <img src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white" />   <img src="https://img.shields.io/badge/Dev--C%2B%2B-00599C?style=for-the-badge" /> </p>
 
-*Technologies and tools I've studied, explored or used in projects.*
+Technologies and tools I've studied, explored or used in projects.
 
 
 **Ferramentas e plataformas:**
@@ -69,18 +69,16 @@ Aqui você encontrará alguns dos meus projetos acadêmicos e pessoais.
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
+<p align="center">   <img height="165em" src="https://github-stats-extended.vercel.app/api?username=JooVinicius00&show_icons=true&theme=tokyonight&hide_border=true"/>   
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JooVinicius00&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+  
 ## 📫 Contato
 
 <p>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<a href="linkedin.com/in/joaovinicius00-b377aa421">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:SEU-EMAIL">
+<a href="mailto:joaovinicius.ribeiro00@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
