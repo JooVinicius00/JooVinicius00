@@ -50,13 +50,6 @@ Other Technologies
 
 Technologies and tools I've studied, explored or used in projects.
 
-
-**Ferramentas e plataformas:**
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
-</p>
-
 ## 📂 Projetos em destaque
 
 Aqui você encontrará alguns dos meus projetos acadêmicos e pessoais.
